@@ -1,6 +1,8 @@
 from Runner_3_1 import *
 import unittest
-from Suit_3_12 import is_frozen
+
+is_frozen = True
+
 
 class RunnerTest(unittest.TestCase):
 

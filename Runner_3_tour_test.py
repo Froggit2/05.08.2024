@@ -1,6 +1,7 @@
 import unittest
 from Runner_3_2 import *
-from Suit_3_12 import is_frozen
+
+is_frozen = True
 
 
 class TournamentTest(unittest.TestCase):

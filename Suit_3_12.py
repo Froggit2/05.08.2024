@@ -9,4 +9,3 @@ runner.addTest(unittest.TestLoader().loadTestsFromTestCase(Runner_3_tour_test.To
 test = unittest.TextTestRunner(verbosity=2)
 test.run(runner)
 
-is_frozen = False
